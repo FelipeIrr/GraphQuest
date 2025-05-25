@@ -7,6 +7,7 @@
 ▶Descripción
 
 ◜----------------------------------------------------------------------------------------------------------◝
+  
   Este programa permite jugar un laberinto el cual el objetivo es pasar por diferentes salas 
   las cuales tienen ítems con puntos y peso y para lograr ganar el jugador debe llegar a la salida
   obteniendo la mayor cantidad de puntos por objetos antes de que se le termine su tiempo
