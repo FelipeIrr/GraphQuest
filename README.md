@@ -118,6 +118,7 @@
 
  ●Paso 2.1 : Recoger Item(s)
  Se selecciona de la variedad de items dentro de la sala en la que este el jugador
+ 
  ◤———————————————————————————————————————————————————————————◥
   
   Opción seleccionada: 2.1) Recoger Item(s)
@@ -163,6 +164,7 @@
  tiempo y si el jugador no quiere soltar nada tiene la opcion de salir de este menu
 
  ●Paso 2.3 : Avanzar en una dirección
+ 
  ◤———————————————————————————————————————————————————————————◥
   
   Opción seleccionada: 2.3) Avanzar en una dirección
