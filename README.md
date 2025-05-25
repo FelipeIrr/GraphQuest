@@ -84,15 +84,16 @@
  
  ●Paso 1 : Cargar Laberinto
  se cargan los datos del laberinto para poder jugar
- ◤                                                             ◥
+ ◸                                                             
   Opción seleccionada: 1) Cargar Laberinto
   Se han cargado los escenarios correctamente.
- ◣                                                             ◢
+                                                              ◿
  □ Al seleccionar cargar laberinto se cargan todos los datos del csv para actualizar y ingresar los datos al estado
 
  ●Paso 2 : Iniciar Partida
  Se incia la partida y muestra las diferentes opciones junto al estado inicial del jugador
- ◤                                                                  ◥
+                                                                   
+◸
   
   Opción seleccionada: 2) Iniciar Partida
   ========================================
@@ -107,8 +108,7 @@
   3) Avanzar en una Direccion
   4) Reiniciar Partida
   5) Salir del Juego
-     
- ◣                                                                  ◢
+                                                                   ◿
  
  □ Se muestra informacion respecto al jugador y al escenario en el que esta junto con la informacion
  de las opciones disponibles
