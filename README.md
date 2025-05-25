@@ -85,7 +85,7 @@
  ●Paso 1 : Cargar Laberinto
  se cargan los datos del laberinto para poder jugar
  
- ◤—————————————————————————————————————————————————————————————◥  
+ ◤———————————————————————————————————————————————————————————◥  
  
   Opción seleccionada: 1) Cargar Laberinto
   Se han cargado los escenarios correctamente.
@@ -95,7 +95,7 @@
  ●Paso 2 : Iniciar Partida
  Se incia la partida y muestra las diferentes opciones junto al estado inicial del jugador
                                                                    
-  ◤—————————————————————————————————————————————————————————————◥
+  ◤———————————————————————————————————————————————————————————◥
   
   Opción seleccionada: 2) Iniciar Partida
   ========================================
@@ -110,14 +110,14 @@
   3) Avanzar en una Direccion
   4) Reiniciar Partida
   5) Salir del Juego
-  ◣—————————————————————————————————————————————————————————————◢
+  ◣———————————————————————————————————————————————————————————◢
  
  □ Se muestra informacion respecto al jugador y al escenario en el que esta junto con la informacion
  de las opciones disponibles
 
  ●Paso 2.1 : Recoger Item(s)
  Se selecciona de la variedad de items dentro de la sala en la que este el jugador
- ◤—————————————————————————————————————————————————————————————◥
+ ◤———————————————————————————————————————————————————————————◥
   
   Opción seleccionada: 2.1) Recoger Item(s)
   Recoger item(s)
@@ -140,27 +140,27 @@
   Inventario:
   1) Cuchillo,3,1
  
- ◣—————————————————————————————————————————————————————————————◢
+ ◣———————————————————————————————————————————————————————————◢
  
  □ Se muestra las diferentes opciones de items disponibles para ser seleccionados por el jugador o seleccionar todos los items o ninguno
 
  ●Paso 2.2 : Descartar Item(s)
  Se selecciona de los diferentes items dentro del imventario del jugador para ser descartados
  
- ◤—————————————————————————————————————————————————————————————◥
+ ◤———————————————————————————————————————————————————————————◥
   Opción seleccionada: 2.2) Descartar Item(s)
   Descartar Item(s)
   1) Cuchillo,3,1
   q) Salir
   Seleccione el numero del item a descartar: 1 
   Item Cuchillo,3,1descartado y dejado en el escenario.
- ◣—————————————————————————————————————————————————————————————◢
+ ◣———————————————————————————————————————————————————————————◢
  
  □ Se selecciona de los diferentes items del inventario del jugador para ser descartado y al jugador se le agrega +1 al
  tiempo y si el jugador no quiere soltar nada tiene la opcion de salir de este menu
 
  ●Paso 2.3 : Avanzar en una dirección
- ◤—————————————————————————————————————————————————————————————◥
+ ◤———————————————————————————————————————————————————————————◥
   
   Opción seleccionada: 2.3) Avanzar en una dirección
   Avanzar en una Dirección
@@ -173,7 +173,7 @@
   Te has movido al escenario: Jardin
   Tiempo restante: 8.00
  
- ◣—————————————————————————————————————————————————————————————◢
+ ◣———————————————————————————————————————————————————————————◢
  
  □ De las diferentes Direcciones el jugador puede ir en estos casos Arriba, Abajo, Derecha o si no quiere seleccionar ninguna
   Salir para volver al menu
@@ -181,7 +181,7 @@
  
  ●Paso 2.4 : Reiniciar Partida
  
- ◤—————————————————————————————————————————————————————————————◥
+ ◤———————————————————————————————————————————————————————————◥
   
   Opción seleccionada: 2.4) Reiniciar Partida
    Reiniciar Partida
@@ -197,14 +197,14 @@
   4) Reiniciar Partida
   5) Salir del Juego
  
- ◣—————————————————————————————————————————————————————————————◢
+ ◣———————————————————————————————————————————————————————————◢
  
  □ Se reiniciar al punto inicial del juego para volver a iniciar desde 0 (se requiere solucion al reiniciar por mal funcionamiento)
 
  ●Paso 2.5 : Salir del Juego
  permite volver al menu de inicio
  
- ◤—————————————————————————————————————————————————————————————◥
+ ◤———————————————————————————————————————————————————————————◥
   Opción seleccionada: 2.5) Salir del Juego
   1) Recoger ├ìtem(s)
   2) Descartar ├ìtem(s)
@@ -220,7 +220,7 @@
   2) Iniciar Partida
   3) Salir
  
- ◣—————————————————————————————————————————————————————————————◢
+ ◣———————————————————————————————————————————————————————————◢
  
  □ Vuelves al punto de inicio donde se puede cargar el Laberinto y Iniciar Partida
 
