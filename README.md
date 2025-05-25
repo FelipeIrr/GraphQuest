@@ -110,6 +110,7 @@
   3) Avanzar en una Direccion
   4) Reiniciar Partida
   5) Salir del Juego
+     
   ◣———————————————————————————————————————————————————————————◢
  
  □ Se muestra informacion respecto al jugador y al escenario en el que esta junto con la informacion
@@ -148,12 +149,14 @@
  Se selecciona de los diferentes items dentro del imventario del jugador para ser descartados
  
  ◤———————————————————————————————————————————————————————————◥
+ 
   Opción seleccionada: 2.2) Descartar Item(s)
   Descartar Item(s)
   1) Cuchillo,3,1
   q) Salir
   Seleccione el numero del item a descartar: 1 
   Item Cuchillo,3,1descartado y dejado en el escenario.
+
  ◣———————————————————————————————————————————————————————————◢
  
  □ Se selecciona de los diferentes items del inventario del jugador para ser descartado y al jugador se le agrega +1 al
@@ -205,6 +208,7 @@
  permite volver al menu de inicio
  
  ◤———————————————————————————————————————————————————————————◥
+ 
   Opción seleccionada: 2.5) Salir del Juego
   1) Recoger ├ìtem(s)
   2) Descartar ├ìtem(s)
