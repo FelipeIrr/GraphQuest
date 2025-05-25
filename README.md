@@ -6,17 +6,17 @@
 
 ▶Descripción
 
-◜                                                                                                         ◝
+◜----------------------------------------------------------------------------------------------------------◝
   Este programa permite jugar un laberinto el cual el objetivo es pasar por diferentes salas 
   las cuales tienen ítems con puntos y peso y para lograr ganar el jugador debe llegar a la salida
   obteniendo la mayor cantidad de puntos por objetos antes de que se le termine su tiempo
 
-◟                                                                                                         ◞
+◟----------------------------------------------------------------------------------------------------------◞
 
 
 ▶Cómo compilar y ejecutar
 
-◜                                                                                                                       ◝
+◜------------------------------------------------------------------------------------------------------------------------◝
  Este programa ha sido desarrollado en el lenguaje C y puede ser ejecutado a través del programa visual studio code
  junto con sus respectivas extensiones como C/C++ Extensión Pack de Microsoft para empezar a operar el programa realicé
  las siguientes acciones paso a paso.
@@ -52,12 +52,12 @@
     ◸ 
         ./tarea.exe
                      ◿
-◟                                                                                                                       ◞
+◟------------------------------------------------------------------------------------------------------------------------◞
 
 
 ▶Funcionalidades
 
-◜                                                                                                                                ◝
+◜----------------------------------------------------------------------------------------------------------------------------------◝
  ●Funcionando Correctamente:
   ○ El ingreso de datos del csv para el laberinto funciona correctamente
   ○ Al recojer items se agregan correctamente al usuario
@@ -71,12 +71,12 @@
  ●A mejorar:
   ○ Hacer que funcione correctamente el reiniciar
   ○ Hacer que funcione correctamente el recojer todos los items de la sala
-◟                                                                                                                                ◞
+◟----------------------------------------------------------------------------------------------------------------------------------◞
 
 
 ▶Ejemplo de uso
 
-◜                                                                                                                                       ◝
+◜-----------------------------------------------------------------------------------------------------------------------------------------------------------------------◝
  ●Paso 1 : Cargar Laberinto
  se cargan los datos del laberinto para poder jugar
  ◤                                                             ◥
@@ -198,4 +198,4 @@
   3) Salir
  ◣                                                 ◢
  □ Vuelves al punto de inicio donde se puede cargar el Laberinto y Iniciar Partida
-◟                                                                                                                                        ◞
+◟-----------------------------------------------------------------------------------------------------------------------------------------------------------------------◞
